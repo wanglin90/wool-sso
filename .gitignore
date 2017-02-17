@@ -1,0 +1,15 @@
+target/
+*.swp
+*.classpath
+*.project
+*.epoch
+*.lck
+*.log
+.settings/
+*.idea/
+*.iml
+classes/
+.gradle/
+build/
+gradle/
+out/
